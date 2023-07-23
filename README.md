@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SachinMY3112
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Coding languages, data cleaning and processing
+- 👀 I’m interested in building products
+- 🌱 I’m currently learning the basics of programming 
+- 💞️ I’m looking to collaborate on Coding languages
 - 📫 How to reach me sachinmy123@gmail.com
 
 <!---
